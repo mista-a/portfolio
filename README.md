@@ -6,7 +6,7 @@ Backend: https://github.com/mista-a/shop-backend
 Технологии: TypeScript, Redux tool kit, React hook form, Next.js, MUI, NestJs, PostgreSQL
 
 # Wiki по персонажам Рик и Морти  
-Nuxt SPA приложение с реализацие роутов, фильтров  
+Nuxt SPA приложение с реализацией роутов, фильтров  
 Приложение: https://test-dengi-na-dom.vercel.app  
 Репозиторий: https://github.com/mista-a/shop-frontend  
 Технологии: Nuxt, Vue 3 (composition), Pinia, CSS  
